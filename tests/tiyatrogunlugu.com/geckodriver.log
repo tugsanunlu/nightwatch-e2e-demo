@@ -1,0 +1,11 @@
+1581114348959	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/yb/ltp8yxs13ldfgft4p2m0jf5c0000gn/T/rust_mozprofile9e4wBD"
+1581114349614	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1581114349753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1581114349753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1581114349753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1581114349753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1581114351535	Marionette	INFO	Listening on port 53227
+JavaScript error: https://tiyatrogunlugu.com/, line 164: TypeError: $ is not a function
+JavaScript error: https://tiyatrogunlugu.com/?s=haluk+bilginer, line 160: TypeError: $ is not a function
+1581114357828	Marionette	INFO	Stopped listening on port 53227
+JavaScript error: , line 0: uncaught exception: undefined

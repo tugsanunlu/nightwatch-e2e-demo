@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="index"
+    errors="0" failures="0" hostname="" id="" package="index" skipped="0"
+    tests="2" time="10.97" timestamp="">
+  
+    <testcase name="Erişim testi" classname="index" time="3.355" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Arama fonksiyonu testi" classname="index" time="7.611" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
